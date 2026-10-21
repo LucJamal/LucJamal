@@ -1,6 +1,6 @@
 ## Olá meu nome é Lucas Joaquim , 
 
-- 🧑🏽‍💻 Trabalho com Suporte T.I focado em SAP
+- 🧑🏽‍💻 Trabalho com Integrações entre sistemas
 - 💻 Estou cursando Sistemas de Informação
 - 📊 Estou me especilaizando em ABAP/CPI
 ##
