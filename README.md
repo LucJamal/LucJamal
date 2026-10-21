@@ -1,8 +1,8 @@
-## Olá meu nome é Lucas Joaquim , sou estudante da Área de Tecnologia 👋
+## Olá meu nome é Lucas Joaquim , 
 
 - 🧑🏽‍💻 Trabalho com Suporte T.I focado em SAP
 - 💻 Estou cursando Sistemas de Informação
-- 📊 Quero me especializar na Área de Dados
+- 📊 Estou me especilaizando em ABAP/CPI
 ##
 <div style="display: inline_block"><br>
  
